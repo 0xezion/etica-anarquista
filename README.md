@@ -111,6 +111,7 @@ democrática global.
 Referências 
 ACCESSNOW. Manual da pessoa vigiada. [S. l.]: AccessNow, [2022?]. Disponível em: 
 accessnow.org. Acesso em: 1 maio 2026. 
+<br></br>
 AMNISTIA INTERNACIONAL. Relatório sobre o uso de softwares espiões e indicadores de 
 comprometimento. Londres: Amnesty International, 2024. 
 BUOLAMWINI, Joy; GEBRU, Timnit. Gender Shades: Intersectional Accuracy Disparities in 
@@ -119,6 +120,7 @@ Commercial Gender Classification. In: Proceedings of Machine Learning Research. 
 BRASIL. Decreto nº 11.856, de 26 de dezembro de 2023. Institui a Política Nacional de 
 Cibersegurança e o Comitê Nacional de Cibersegurança. Brasília, DF: Presidência da 
 República, [2023]. Disponível em: planalto.gov.br. Acesso em: 1 maio 2026. 
+<br></br>
 BRASIL. Gabinete de Segurança Institucional. Estratégia Nacional de Cibersegurança (E
 Ciber). Brasília, DF: GSI/PR, 2024. Disponível em: www.gov.br. Acesso em: 1 maio 2026. 
 BRASIL. Centro de Tratamento de Incidentes de Segurança em Redes de Governo (CTIR 
@@ -130,23 +132,30 @@ da República, 2025.
 BRUNO, Fernanda; CARDOSO, Bruno; KANASHIRO, Marta; GUILHON, Luciana; MELGAÇO, 
 Lucas (org.). Tecnopolíticas da vigilância: perspectivas da margem. Porto Alegre: Editora 
 Deriva, 2024. Disponível em: MediaLab UFRJ. Acesso em: 1 maio 2026. [1] 
+<br></br>
+
 IPREC – Instituto de Pesquisa em Direito e Tecnologia do Recife. Mercadores da 
 insegurança: o mercado de tecnologias de vigilância no Brasil. Recife: IPREC, 2022. 
 LYON, David. The Culture of Surveillance: Watching as a Way of Life. Cambridge: Polity 
 Press, 2018. 
+<br></br>
 MBEMBE, Achille. Necropolítica: biopoder, soberania, estado de exceção, política da morte. 
 São Paulo: n-1 edições, 2018. 
+<br></br>
 MIT MEDIA LAB. Chatbots produzem informações menos precisas para usuários 
 vulneráveis: reconhecimento enviesado sociocognitivo. Cambridge: MIT, 2026. 
 REPORT on the International Panel on AI Safety. Relatório Internacional de Segurança de IA 
 2026: riscos sistêmicos e direitos humanos. [S. l.]: IPAI, 2026. 
+<br></br>
 TIRE MEU ROSTO DA SUA MIRA. Manifesto contra a vigilância facial no Brasil. São Paulo: 
 Coalizão Direitos na Rede, 2023. Disponível em: https://tiremeurostodasuamira.org.br. Acesso 
 em: 1 maio 2026. 
+<br></br>
 WRING: Weighted Rotational DebiasING for Vision-Language Models. In: International 
 Conference for Learning Representations (ICLR). [S. l.], abr. 2026. 
 ZUBOFF, Shoshana. A era do capitalismo de vigilância: a luta por um futuro humano na 
 nova fronteira do poder. Rio de Janeiro: Intrínseca, 2020. 
+<br></br>
 ZIMPERIUM. Laboratório de Pesquisa: Indicadores de Comprometimento (IoCs). [S. l.]: 
 GitHub, 2024. Disponível em: github.com/Zimperium/IOC. Acesso em: 1 maio 2026 
 G1. Empresa de 'software espião' investigado pela PF fechou contratos de pelo menos R$ 66 
